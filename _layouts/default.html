@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="nav-container">
+      <a href="{{ '/' | relative_url }}" class="nav-brand">
+        <span class="nav-logo">&#9883;</span>
+        <span>{{ site.title }}</span>
+      </a>
+      <button class="nav-toggle" aria-label="Menú" onclick="document.querySelector('.nav-links').classList.toggle('active')">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <ul class="nav-links">
+        <li><a href="{{ '/programa/' | relative_url }}">Programa</a></li>
+        <li><a href="{{ '/fechas/' | relative_url }}">Fechas</a></li>
+        <li><a href="{{ '/presentaciones/' | relative_url }}">Presentaciones</a></li>
+        <li><a href="{{ '/material/' | relative_url }}">Material</a></li>
+        <li><a href="{{ '/links/' | relative_url }}">Links</a></li>
+        <li><a href="{{ '/tareas/' | relative_url }}">Tareas</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main class="main-content">
+    {{ content }}
+  </main>
+
+  <footer class="footer">
+    <div class="footer-container">
+      <div class="footer-info">
+        <p><strong>{{ site.title }}</strong></p>
+        <p>{{ site.description }}</p>
+      </div>
+      <div class="footer-links">
+        <p>Construido con <a href="https://jekyllrb.com" target="_blank">Jekyll</a> y alojado en <a href="https://pages.github.com" target="_blank">GitHub Pages</a></p>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

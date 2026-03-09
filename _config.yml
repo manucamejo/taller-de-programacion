@@ -1,0 +1,21 @@
+title: Taller de Programación I
+description: >-
+  Curso práctico de desarrollo cliente-servidor con Elixir y React.
+  Los estudiantes desarrollan una aplicación aplicando programación funcional,
+  concurrencia basada en procesos y comunicación entre sistemas.
+baseurl: /taller-de-programacion
+url: https://manucamejo.github.io
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+  - LICENSE
