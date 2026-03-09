@@ -5,7 +5,7 @@ subtitle: TP individual y proyecto final grupal
 permalink: /tareas/
 ---
 
-## TP1 — Trabajo individual
+## TP1 - Trabajo individual
 
 **Tipo:** Individual
 **Presentación:** Clase 4 (6 de abril)
@@ -17,7 +17,7 @@ Trabajo orientado a **programación funcional y procesos**. Se presenta durante 
 
 ---
 
-## TP Final — Proyecto grupal
+## TP Final - Proyecto grupal
 
 **Tipo:** Grupal (3 o 4 estudiantes)
 **Presentación del enunciado:** Clase 10 (18 de mayo)

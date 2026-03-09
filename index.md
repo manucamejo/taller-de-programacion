@@ -7,7 +7,7 @@ title: Inicio
   <div class="next-class-label">Próxima clase</div>
   <div class="next-class-info">
     <h3>Clase 2: Introducción a Elixir y programación funcional</h3>
-    <p><strong>Fecha:</strong> Lunes 16 de marzo, 2026 &mdash; 19:00 hs</p>
+    <p><strong>Fecha:</strong> Lunes 16 de marzo, 2026 - 19:00 hs</p>
     <p>Conceptos básicos del lenguaje, pattern matching, inmutabilidad, funciones y pipes.</p>
     <p><a href="https://meet.google.com/wax-fcue-ycg" target="_blank">Unirse a la clase virtual</a></p>
   </div>
@@ -51,6 +51,6 @@ title: Inicio
 
 ## Información general
 
-- **Modalidad:** Virtual — [Link a la clase](https://meet.google.com/wax-fcue-ycg)
+- **Modalidad:** Virtual - [Link a la clase](https://meet.google.com/wax-fcue-ycg)
 - **Horario:** Lunes de 19:00 a 21:00 hs
-- **Duración:** 16 semanas (13 clases + 1 feriado + 2 semanas de consultas)
+- **Playlist de la materia:** [Spotify](https://open.spotify.com/playlist/22gOMJdMAAUBDpjm10FPWn?si=5a614c2475c64c7e)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fechas importantes
-subtitle: Calendario del semestre — 16 semanas
+subtitle: Calendario del semestre - 16 semanas
 permalink: /fechas/
 ---
 
@@ -36,7 +36,7 @@ permalink: /fechas/
 ## Notas
 
 - Las clases son los **lunes de 19:00 a 21:00 hs**.
-- Modalidad **virtual** — [Link a la clase](https://meet.google.com/wax-fcue-ycg).
+- Modalidad **virtual** - [Link a la clase](https://meet.google.com/wax-fcue-ycg).
 - La semana 3 (23 de marzo) es **feriado**, no hay clase.
 - Las semanas 15 y 16 son de **consultas**.
 - La entrega y presentación del TP final se realiza en **fechas de final de la materia**, por fuera de la cursada.
