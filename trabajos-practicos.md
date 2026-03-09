@@ -7,7 +7,6 @@ permalink: /trabajos-practicos/
 
 *El contenido de esta sección no está disponible aún.*
 
-<!--
 ## TP1 - Trabajo individual
 
 **Tipo:** Individual
@@ -33,4 +32,3 @@ Desarrollo de una **aplicación cliente-servidor interactiva**:
 - La comunicación será mediante WebSockets.
 
 *Los detalles del TP final se publicarán en la clase 10.*
--->
