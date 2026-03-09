@@ -23,28 +23,28 @@ title: Inicio
 </div>
 
 <div class="card">
-  <h3><a href="{{ '/fechas/' | relative_url }}">Fechas importantes</a></h3>
+  <h3><a href="{{ '/cronograma/' | relative_url }}">Cronograma</a></h3>
   <p>Calendario de 16 semanas con fechas de clases, feriados y entregas.</p>
 </div>
 
 <div class="card">
-  <h3><a href="{{ '/presentaciones/' | relative_url }}">Presentaciones</a></h3>
-  <p>Slides de cada clase disponibles para descarga y consulta.</p>
-</div>
-
-<div class="card">
   <h3><a href="{{ '/material/' | relative_url }}">Material</a></h3>
-  <p>Bibliografía recomendada, herramientas y recursos para acompañar el aprendizaje.</p>
+  <p>Bibliografía recomendada y recursos para acompañar el aprendizaje.</p>
 </div>
 
 <div class="card">
-  <h3><a href="{{ '/links/' | relative_url }}">Links de lectura</a></h3>
+  <h3><a href="{{ '/links/' | relative_url }}">Links útiles</a></h3>
   <p>Artículos, documentación y recursos complementarios organizados por temas.</p>
 </div>
 
 <div class="card">
   <h3><a href="{{ '/tareas/' | relative_url }}">Tareas</a></h3>
-  <p>Trabajos prácticos individuales y grupales.</p>
+  <p>Links para leer y tareas para la próxima clase.</p>
+</div>
+
+<div class="card">
+  <h3><a href="{{ '/trabajos-practicos/' | relative_url }}">Trabajos prácticos</a></h3>
+  <p>TP individual y proyecto final grupal.</p>
 </div>
 
 </div>

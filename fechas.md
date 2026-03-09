@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Fechas importantes
+title: Cronograma
 subtitle: Calendario del semestre - 16 semanas
-permalink: /fechas/
+permalink: /cronograma/
 ---
 
 ## Calendario de clases

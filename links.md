@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links de lectura
+title: Links útiles
 subtitle: Artículos, documentación y recursos complementarios
 permalink: /links/
 ---
